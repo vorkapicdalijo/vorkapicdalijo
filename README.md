@@ -37,7 +37,7 @@ I am a Full-stack Software Developer and a Computer Science Student with a stron
 
 ### 📊 Stats
 
-![Forrest's GitHub stats](https://github-readme-stats.vercel.app/api?username=forrestknight&show_icons=true&theme=gruvbox)
+![Dalijo's GitHub stats](https://github-readme-stats.vercel.app/api?username=vorkapicdalijo&show_icons=true&theme=gruvbox)
 
 <!-- ![GitHub Streak](https://streak-stats.demolab.com?user=ForrestKnight&theme=gruvbox&border_radius=4.5) -->
 
