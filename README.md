@@ -49,4 +49,5 @@ _My side interests are: 🚗 Cars, 🏋️‍♂️ Fitness, and 🌲 Nature._
         <a href="https://www.linkedin.com/in/dalijo-vorkapi%C4%87-a1bb9821a/">Let's connect and talk!</a>
     </b>
 </p>
+<br />
 
