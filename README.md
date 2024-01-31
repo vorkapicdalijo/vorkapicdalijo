@@ -1,32 +1,52 @@
-# 🧔 Dalijo Vorkapić
+# 👋🧔 Hi, I'm Dalijo
 
 **`Full-stack Software Developer | Computer Science Student`**
 
-I am a Full-stack Software Developer and a Computer Science Student with a strong passion and desire to learn new things and develop new skills as well as to improve the existing ones.
-
-   <p align="left">
-      <a href="https://www.linkedin.com/in/dalijo-vorkapi%C4%87-a1bb9821a/">
-         <img alt="linkedin" title="My LinkedIn Profile" src="https://custom-icon-badges.demolab.com/badge/-LinkedIn-blue?style=for-the-badge&logoColor=white&logo=linkedin"/></a>
-   </p>
+A dedicated computer science student & full-stack developer currently immersed in the world of web development 🌎. My focus is on enhancing 📈 user experiences through the fusion of **Angular** on the front end and **Spring Boot** on the back end. With a commitment to staying at the forefront of technology 💻, I strive to craft 🔨 solutions that seamlessly blend innovation and functionality.🎨
 
 ---
 
-### 🧰 Languages and Tools
-<img align="left" alt="Angular" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/angularjs/angularjs-plain.svg" />
-<img align="left" alt="TypeScript" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-plain.svg" />
-<img align="left" alt="Spring" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/spring/spring-original.svg" />
-<img align="left" alt="Java" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg"/>
-<img align="left" alt="Git" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" />
-<img align="left" alt="Jira" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jira/jira-original-wordmark.svg" />
-<img align="left" alt="Figma" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/figma/figma-original.svg" />
-<img align="left" alt="Docker" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" />
-<img align="left" alt="Oracle" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/oracle/oracle-original.svg" />
-<img align="left" alt="Mongo" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg" />
-<img align="left" alt="PostgreSQL" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original-wordmark.svg" />
-<img align="left" alt="Firebase" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/firebase/firebase-plain.svg" />
-<img align="left" alt="Python" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-plain.svg" />
-<img align="left" alt="Jupyter" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jupyter/jupyter-original-wordmark.svg" />
-<br />
+## ☀️ Life
+👨‍🎓 Computer Science Student @ [**Faculty of Electrical Engineering and Computing**][fer] <br />
+👷‍♂️ Full-stack Developer @ [**Ericsson**][er] <br />
 
+_My side interests are: 🚗 Cars, 🏋️‍♂️ Fitness, and 🌲 Nature._
+
+[fer]: https://www.fer.unizg.hr/en
+[er]:https://www.ericsson.com/en
 #
+
+## 🧰 Languages and Tools
+![Angular](https://custom-icon-badges.demolab.com/badge/-Angular-red?style=for-the-badge&logoColor=white&logo=angular)
+![TypeScript](https://custom-icon-badges.demolab.com/badge/-Typescript-blue?style=for-the-badge&logoColor=white&logo=typescript)
+![Spring](https://custom-icon-badges.demolab.com/badge/-spring-green?style=for-the-badge&logoColor=white&logo=spring)
+![Java](https://custom-icon-badges.demolab.com/badge/-Java-red?style=for-the-badge&logoColor=white&logo=java)
+![Git](https://custom-icon-badges.demolab.com/badge/-Git-yellow?style=for-the-badge&logoColor=white&logo=git)
+![Jira](https://custom-icon-badges.demolab.com/badge/-Jira-blue?style=for-the-badge&logoColor=white&logo=jira)
+![Figma](https://custom-icon-badges.demolab.com/badge/-Figma-orange?style=for-the-badge&logoColor=white&logo=figma)
+![Docker](https://custom-icon-badges.demolab.com/badge/-Docker-blue?style=for-the-badge&logoColor=white&logo=docker)
+![Oracle](https://custom-icon-badges.demolab.com/badge/-Oracle-red?style=for-the-badge&logoColor=white&logo=oracle)
+![MongoDB](https://custom-icon-badges.demolab.com/badge/-Mongodb-green?style=for-the-badge&logoColor=white&logo=mongodb)
+![PostgreSQL](https://custom-icon-badges.demolab.com/badge/-Postgresql-blue?style=for-the-badge&logoColor=white&logo=postgresql)
+![Firebase](https://custom-icon-badges.demolab.com/badge/-Firebase-orange?style=for-the-badge&logoColor=white&logo=firebase)
+![Python](https://custom-icon-badges.demolab.com/badge/-Python-yellow?style=for-the-badge&logoColor=white&logo=python)
+![Jupyter](https://custom-icon-badges.demolab.com/badge/-Jupyter-red?style=for-the-badge&logoColor=white&logo=jupyter)
+#
+
+## 💡 My Projects
+
+- [**Workout Application**](https://github.com/vorkapicdalijo/bachelor-degree): Bachelor Degree on topic of Process of a Full-stack application development.
+- [**Microservices**](https://github.com/vorkapicdalijo/microservices): Project on topic of Microservice Architecture.
+- [**IoT & Web Project**](https://github.com/vorkapicdalijo/Home_Obesrvation_Security_App): A group project combining IoT, PWA & Web - Home Observation Security Application.
+- [**AI History Application**](https://github.com/vorkapicdalijo/AI-history-project): An educational history application containing OpenAI GPT text generator, TTS, and DALL-E 3 image generator.
+- [**Recommender System**](https://github.com/vorkapicdalijo/recommender-systems): Based on the Population based & Colaborative Filtering based Recommender Systems, working on the Amazon reviews Dataset.
+- [**Stress Data Analysis**](https://github.com/vorkapicdalijo/data-science-project): Data Science project with a focus on the stress data analysis.
+- [**Movies App Challenge**](https://github.com/vorkapicdalijo/data-science-project): Full-stack application created for the development challenge.
+#
+<br />
+<p align="center">
+    <b>Looking for a software engineer?
+        <a href="https://www.linkedin.com/in/dalijo-vorkapi%C4%87-a1bb9821a/">Let's connect and talk!</a>
+    </b>
+</p>
 
