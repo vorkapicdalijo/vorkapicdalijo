@@ -41,7 +41,7 @@ _My side interests are: 🚗 Cars, 🏋️‍♂️ Fitness, and 🌲 Nature._
 - [**AI History Application**](https://github.com/vorkapicdalijo/AI-history-project): An educational history application containing OpenAI GPT text generator, TTS, and DALL-E 3 image generator.
 - [**Recommender System**](https://github.com/vorkapicdalijo/recommender-systems): Based on the Population based & Colaborative Filtering based Recommender Systems, working on the Amazon reviews Dataset.
 - [**Stress Data Analysis**](https://github.com/vorkapicdalijo/data-science-project): Data Science project with a focus on the stress data analysis.
-- [**Movies App Challenge**](https://github.com/vorkapicdalijo/data-science-project): Full-stack application created for the development challenge.
+- [**Movies App Challenge**](https://github.com/vorkapicdalijo/movies-app): Full-stack application created for the development challenge.
 #
 <br />
 <p align="center">
