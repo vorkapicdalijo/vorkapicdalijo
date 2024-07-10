@@ -2,18 +2,18 @@
 
 **`Full-stack Software Developer | Computer Science Student`**
 
-A dedicated computer science student & full-stack developer currently immersed in the world of web development 🌎. My focus is on enhancing 📈 user experiences through the fusion of **Angular** on the front end and **Spring Boot** on the back end. With a commitment to staying at the forefront of technology 💻, I strive to craft 🔨 solutions that seamlessly blend innovation and functionality.🎨
+A dedicated full-stack developer currently immersed in the world of web development 🌎. My focus is on enhancing 📈 user experiences through the fusion of **Angular** on the front end and **Spring Boot** on the back end. With a commitment to staying at the forefront of technology 💻, I strive to craft 🔨 solutions that seamlessly blend innovation and functionality.🎨
 
 ---
 
 ## ☀️ Life
-👨‍🎓 Computer Science Student @ [**Faculty of Electrical Engineering and Computing**][fer] <br />
-👷‍♂️ Full-stack Developer @ [**Ericsson**][er] <br />
+👨‍🎓 MSc in Computer Science @ [**Faculty of Electrical Engineering and Computing**][fer] <br />
+👷‍♂️ Software Engineer @ [**Croatia osiguranje**][er] <br />
 
 _My side interests are: 🚗 Cars, 🏋️‍♂️ Fitness, and 🌲 Nature._
 
 [fer]: https://www.fer.unizg.hr/en
-[er]:https://www.ericsson.com/en
+[er]: https://www.ericsson.com/en](https://kompanija.crosig.hr/en
 #
 
 ## 🧰 Languages and Tools
@@ -35,6 +35,7 @@ _My side interests are: 🚗 Cars, 🏋️‍♂️ Fitness, and 🌲 Nature._
 
 ## 💡 My Projects
 
+- [**Web store Microservices Application**](https://github.com/vorkapicdalijo/master-thesis): Master thesis on topic of Development of Microservices-based Web store application.
 - [**Workout Application**](https://github.com/vorkapicdalijo/bachelor-degree): Bachelor Degree on topic of Process of a Full-stack application development.
 - [**Microservices**](https://github.com/vorkapicdalijo/microservices): Project on topic of Microservice Architecture.
 - [**IoT & Web Project**](https://github.com/vorkapicdalijo/Home_Obesrvation_Security_App): A group project combining IoT, PWA & Web - Home Observation Security Application.
